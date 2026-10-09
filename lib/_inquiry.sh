@@ -11,7 +11,7 @@ get_mysql_root_password() {
 get_link_git() {
 
   print_banner
-  printf "${WHITE} 💻 Insira o link do GITHUB do seu ZapStart que deseja instalar:${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Insira o link do GITHUB do seu Zap FDH Group que deseja instalar:${GRAY_LIGHT}"
   printf "\n\n"
   printf "   Exemplo: github.com/usuario/repositorio.git\n\n"
   read -p "> " link_git
@@ -246,14 +246,14 @@ software_dominio() {
 inquiry_options() {
   
   print_banner
-  printf "${WHITE} 💻 Bem vindo(a) ao Gerenciador ZapStart - Atendimento sem limites, selecione abaixo a proxima ação!${GRAY_LIGHT}"
+  printf "${WHITE} 💻 Bem vindo(a) ao Gerenciador Zap FDH Group - Atendimento sem limites, selecione abaixo a proxima ação!${GRAY_LIGHT}"
   printf "\n\n"
-  printf "   [0] Instalar ZapStart\n"
-  printf "   [1] Atualizar ZapStart\n"
-  printf "   [2] Deletar ZapStart\n"
-  printf "   [3] Bloquear ZapStart\n"
-  printf "   [4] Desbloquear ZapStart\n"
-  printf "   [5] Alter. dominio ZapStart\n"
+  printf "   [0] Instalar Zap FDH Group\n"
+  printf "   [1] Atualizar Zap FDH Group\n"
+  printf "   [2] Deletar Zap FDH Group\n"
+  printf "   [3] Bloquear Zap FDH Group\n"
+  printf "   [4] Desbloquear Zap FDH Group\n"
+  printf "   [5] Alter. dominio Zap FDH Group\n"
   printf "\n"
   read -p "> " option
 
