@@ -17,7 +17,6 @@ Conheça o **FDH Setup MultiZaap**, um instalador personalizado e aprimorado pel
 
 Entre em contato conosco! Nossa equipe está à disposição para apresentar os recursos, esclarecer dúvidas e fornecer mais informações sobre a solução.
 
-📞 **WhatsApp / Telefone:** (62) 98212-5251
 
 📧 **E-mail:** suporte@fdhgroup.com.br
 
